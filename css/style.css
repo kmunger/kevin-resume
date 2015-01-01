@@ -1,0 +1,16 @@
+body {
+  font-size: 12px;
+  cursor: default;
+  background-color: #ffffff;
+  text-align: left;
+}
+h2,
+h3,
+h4,
+h5 {
+  color: #57068c;
+}
+.col-md-6 {
+  border-left: 1px solid #d3d3d3;
+  height: 600px;
+}
