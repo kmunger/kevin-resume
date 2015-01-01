@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/ah358/pen/mAlGd.
-
- 
+A simple, static academic resume for a friend and PHD student at NYU. Built with Bootstrap. 
